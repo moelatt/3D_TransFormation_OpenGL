@@ -1,5 +1,4 @@
-Name: Moe Ko Latt
-Email: mlatt@ucdavis.edu
+
 
 Window size: 
 	width = 600
