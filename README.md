@@ -1,4 +1,4 @@
-A+ Project
+(Grade A+) Project
 
 ![alt text](bunny2.png)
 ![alt text](3D_image.png)
